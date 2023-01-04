@@ -1,0 +1,64 @@
+﻿  AnimatedObject.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  AudioManager.cpp
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\AudioManager.cpp(32,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  Button.cpp
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\Button.cpp(46,59): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\Button.cpp(47,89): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\Button.cpp(48,58): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\Button.cpp(49,90): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+  Direct3DManager.cpp
+  DirectInputManager.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  FrameTimer.cpp
+  Game.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\Game.cpp(181,12): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\Game.cpp(180,12): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\Game.cpp(179,12): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\Game.cpp(178,39): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\Game.cpp(205,12): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\Game.cpp(204,9): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\Game.cpp(203,12): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\Game.cpp(202,23): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\Game.cpp(387,64): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\Game.cpp(396,65): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+  GameManager.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  GameObject.cpp
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\GameObject.cpp(105,28): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\GameObject.cpp(106,29): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+  GameOverMenu.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Level1.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\Level1.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\Level1.cpp(72,26): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\Level1.cpp(75,68): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\Level1.cpp(75,52): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\Level1.cpp(332,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\Level1.cpp(335,79): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\Level1.cpp(335,63): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  Main.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  MainMenu.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  OptionMenu.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\OptionMenu.cpp(29,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\OptionMenu.cpp(72,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Panel.cpp
+  PauseMenu.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  SpriteSheet.cpp
+  Text.cpp
+  Timer.cpp
+  TransformationMatrix.cpp
+  Generating Code...
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\Level1.cpp(198): warning C4715: 'checkCollision': not all control paths return a value
+C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Assignment\Level1.cpp(210): warning C4715: 'checkCollision': not all control paths return a value
+  Compiling...
+  Texture.cpp
+  WindowsManager.cpp
+  Generating Code...
+  Assignment.vcxproj -> C:\Users\B230\Desktop\BACS2224 Assignment Program SMS, KHX\BACS2224 Assignment Program SMS, KHX\Debug\Assignment.exe
